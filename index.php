@@ -8,8 +8,9 @@
 <body>
 	<div>
 		<ul>
-			<li><a href="#login" accesskey="1">
-		
+			<li><a href="#login" accesskey="1"><p>[1] - LOGIN</p></a></li>
+            		<li><a href="menu" accesskey="2"><p>[2] - Menu</p> </a></li>
+            		<li><a href="rodapé" acceskey="3"> <p>[3] - rodapé</p></a></li>
 		</ul>
 	</div>
 	<header>
