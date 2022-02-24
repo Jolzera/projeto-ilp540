@@ -28,6 +28,7 @@
 	<main>
 	</main>
 	<footer id="rodapé">
+		<p>jonathan teixeira rodrigues</p>
 	</footer>
 
 
