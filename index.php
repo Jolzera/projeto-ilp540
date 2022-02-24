@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-08">
 	<meta name="viewport" content="width=divice-widtth, initial-scake=1">
-	<title>nome</title>
+	<title>Shop Express</title>
 </head>
 <body>
 	<div>
