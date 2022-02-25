@@ -19,15 +19,15 @@
 		<div id="cadastro">
 			<form action="#" method="post">
 				<label>Nome:<input type="text" name="usuario" id="usuario"></label>
-                <br><br>
+                		<br><br>
 				<label>Email:<input type="email" name="email" id="email"></label>
-                <br><br> 
-                <label>Celular:<input type="text" name="celular" id="celular"></label>
-                <br><br>
-                <label>Senha:<input type="password" name="senha" id="senha"></label>
-                <label>Confirmação de senha:<input type="password" name="senha" id="confirmação_senha"></label>
-                <br><br>
-                <button>Cadastrar!!</button>
+                		<br><br> 
+                		<label>Celular:<input type="text" name="celular" id="celular"></label>
+                		<br><br>
+                		<label>Senha:<input type="password" name="senha" id="senha"></label>
+                		<label>Confirmação de senha:<input type="password" name="senha" id="confirmação_senha"></label>
+                		<br><br>
+                		<button>Cadastrar!!</button>
 			</form>
 		</div>
     </main>
