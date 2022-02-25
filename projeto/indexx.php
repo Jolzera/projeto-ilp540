@@ -19,11 +19,11 @@
         <div id="login">
 			<form action="#" method="post">
 				<label>Email:<input type="email" name="email" id="email"></label>
-                <br><br>
+                		<br><br>
 				<label>Senha:<input type="password" name="senha" id="senha"></label>
-                <br><br>
-                <button>Logar!!</button>
-                <br><br>
+                		<br><br>
+                		<button>Logar!!</button>
+                		<br><br>
 			</form>
 		</div>
 	</main>
