@@ -30,7 +30,7 @@
 						<input class ="form-control" placeholder="Senha*" type="password" name="senha" id="senha">
 					</div>
 					<div class="form-group col-sm-12">
-						<input class ="form-control" placeholder="Confirmação de senha*" type="password" name="senha" id="confirmação_senha">
+						<input class ="form-control" placeholder="ConfirmaÃ§Ã£o de senha*" type="password" name="senha" id="confirmaÃ§Ã£o_senha">
 					</div>
 				</div>
                 <button id="bc" type="submit" class="btn btn-primary btn-lg btn-block">Cadastrar!!</button>
