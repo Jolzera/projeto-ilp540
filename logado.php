@@ -25,7 +25,7 @@
                         <a class="nav-link" href="#">Meus dados</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Sair</a>
+                        <a class="nav-link" href="index.php">Sair</a>
                     </li>
                 </ul>
                 <form class="form-inline mt-2 mt-md-0">
