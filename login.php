@@ -39,8 +39,8 @@
                     </div>
                 </div>
                 <div class="d-grid gap-2 col-6 mx-auto">
-                    <a href="logado.html"><button type="button" id="bc" class="btn btn-primary btn-lg ">Entrar</button></a> <!---talves colocar "btn-block" na casse dos botões-->
-                    <a href="cadastro.html"><button type="button" id="bc" class="btn btn-primary btn-lg">Cadastrar</button></a>
+                    <a href="logado.php"><button type="button" id="bc" class="btn btn-primary btn-lg ">Entrar</button></a> <!---talves colocar "btn-block" na casse dos botões-->
+                    <a href="cadastro.php"><button type="button" id="bc" class="btn btn-primary btn-lg">Cadastrar</button></a>
                 </div>
                 <div>
                     <br>
