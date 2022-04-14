@@ -21,7 +21,7 @@
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="login.html">Entrar</a>
+                    <a class="nav-link" href="login.php">Entrar</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Alguma coisa</a>
