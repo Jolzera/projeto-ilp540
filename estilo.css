@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300&display=swap');
+
+
+.fundo { 
+    background-color: black;
+}
+#bcb {
+    background-color: #511866;
+    color: white;
+}
+#b{
+    color: black;
+	text-align: center;
+    align-content: center;
+}
+#bu{
+    color: dodgerblue;
+}
+#em{
+    color: orangered;
+}
+.h1{
+    text-align: center;
+}
+#bc {
+    background-color: #E64805;
+    color: white;
+}
+#flu{
+     text-align:left;
+}
+#branco{
+    color: white;
+}
+#link{
+    text-decoration: none;
+    color: grey;
+}
+
